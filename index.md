@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-nav_exclude: true
+nav_order: 0
 permalink: /
 seo:
   type: Course
@@ -18,14 +18,14 @@ Lectures will be recorded and available for async participation.
 
 ---
 
-[Course Info](about.md)
-: Learning objectives, assignment descriptions, and grading breakdown.
-
 [Weekly Schedule](calendar.md)
 : Week-by-week topics, assignments, and readings — with the next class highlighted at the top.
 
 [Meeting Times](schedule.md)
 : Recurring session time and format.
+
+[Course Info](about.md)
+: Learning objectives, assignment descriptions, and grading breakdown.
 
 [Gen AI Policy](gen-ai-policy.md)
 : How gen AI use is handled in this course and what disclosure is required.

@@ -3,6 +3,7 @@ layout: page
 title: Course Info
 description: >-
     Course policies and information.
+nav_order: 3
 ---
 
 # Course Info
