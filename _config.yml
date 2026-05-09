@@ -19,7 +19,7 @@ description: Learning how LLMs impact our cognition and how to use them in ways 
 author: Lara Karki
 baseurl: '/cog-sci-and-llms'
 url: 'https://laras126.github.io'
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "starter content.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "starter content.md"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.12.0
