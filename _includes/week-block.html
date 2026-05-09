@@ -5,7 +5,13 @@
       <dt>Topic</dt>
       <dd>{{ include.week.topic }}</dd>
       <dt>Assignment</dt>
-      <dd>{{ include.week.assignment }}</dd>
+      <dd>
+        {% if include.week.assignment_url %}
+          <a href="{{ include.week.assignment_url | relative_url }}">{{ include.week.assignment }}</a>
+        {% else %}
+          {{ include.week.assignment }}
+        {% endif %}
+      </dd>
       <dt>Readings</dt>
       <dd>{{ include.week.readings }}</dd>
     </dl>

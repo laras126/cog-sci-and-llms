@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Weekly Schedule
+title: Weekly Topics
 description: Listing of course modules and topics.
 nav_order: 1
 ---
 
-# Calendar
+# Weekly Topics
 
 {% include next-class.html %}
 

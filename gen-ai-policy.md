@@ -11,7 +11,7 @@ This seminar is all about using gen AI and understanding its impacts on cognitio
 
 - Use gen AI (namely LLMs) **intentionally and refectively, not automatically**, according to guidelines as we go through them in the seminar, for example, if you find yourself turning to LLMs immediately without thinking, think about that.
 - In parts of the seminar, you may be directed to use or not use gen AI for a task -- following that guide is a key part of benefitting from the content.
-- Honesty about your gen AI use is essential to your research integrity and your own learning -- **always disclose** gen AI use: describe what you used it for, what the experience was like, and how it shaped the result
+- Noticing and being honest about your gen AI use is essential to research integrity and your own learning -- **always disclose** gen AI use: describe what you used it for, what the experience was like, and how it shaped the result
 
 Example disclosure (me, Lara, from making this website):
 - **What I used and what for:** I used Claude Code in creating this page/website - I fed it content I already wrote and asked it to fill in the related areas on the site, and to expand on the content in particular ways, e.g., add the highlights section below.

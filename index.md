@@ -20,8 +20,8 @@ Lectures will be recorded and available for async participation.
 
 ---
 
-[Weekly Schedule](calendar.md)
-: Week-by-week topics, assignments, and readings — with the next class highlighted at the top.
+[Weekly Topics](calendar.md)
+: Week-by-week topics, assignments, and readings.
 
 [Meeting Times](schedule.md)
 : Recurring session time and format.
