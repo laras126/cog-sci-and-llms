@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Calendar
+title: Weekly Schedule
 description: Listing of course modules and topics.
+nav_order: 1
+use_calendar_js: true
 ---
 
 # Calendar
@@ -14,29 +16,3 @@ description: Listing of course modules and topics.
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
-
-<script>
-(function () {
-  var blocks = Array.from(document.querySelectorAll('[data-week-date]'));
-  if (!blocks.length) return;
-
-  var now = new Date();
-  var target = blocks[blocks.length - 1];
-
-  for (var i = 0; i < blocks.length; i++) {
-    // Switch to next block after 8pm EDT (UTC-4) on the session date
-    var cutoff = new Date(blocks[i].dataset.weekDate + 'T20:00:00-04:00');
-    if (now < cutoff) {
-      target = blocks[i];
-      break;
-    }
-  }
-
-  var clone = target.cloneNode(true);
-  clone.removeAttribute('data-week-date');
-  clone.querySelectorAll('[id]').forEach(function (el) { el.removeAttribute('id'); });
-
-  document.getElementById('next-class-content').appendChild(clone);
-  document.getElementById('next-class').style.display = '';
-})();
-</script>

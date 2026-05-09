@@ -2,7 +2,7 @@
 layout: page
 title: Gen AI Policy
 description: Course policy on the use of generative AI tools.
-nav_order: 5
+nav_order: 3
 ---
 
 # Gen AI Policy

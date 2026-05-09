@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Meeting Times
+description: The weekly schedule.
 ---
 
-# Weekly Schedule
+# Weekly Meetings
 
 Later in the course, we may add additional meeting times based on different time zones for support on research projects.
 

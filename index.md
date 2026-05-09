@@ -15,3 +15,23 @@ Are LLMs helping or hurting your productivity? Are they causing you to lose your
 **Optional in-person:** Tuesdays 8–9pm EST · Zoom link in Canvas · Starting May 19
 
 Lectures will be recorded and available for async participation.
+
+---
+
+[Course Info](about.md)
+: Learning objectives, assignment descriptions, and grading breakdown.
+
+[Weekly Schedule](calendar.md)
+: Week-by-week topics, assignments, and readings — with the next class highlighted at the top.
+
+[Meeting Times](schedule.md)
+: Recurring session time and format.
+
+[Gen AI Policy](gen-ai-policy.md)
+: How gen AI use is handled in this course and what disclosure is required.
+
+[About Lara](staff.md)
+: Instructor info and office hours booking.
+
+[Announcements](announcements.md)
+: Course updates and weekly posts.

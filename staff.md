@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Instructor
-description: Course instructor information.
+description: About Lara.
 ---
 
 # Instructor
