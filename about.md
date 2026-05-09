@@ -16,18 +16,42 @@ description: >-
 
 ---
 
-## About
+## Course Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Are LLMs helping or hurting your productivity? Are they causing you to lose your skills or critical thinking ability? Both? These are open research questions, and the findings so far are mixed. In this seminar, we will review and discuss human-AI interaction research and work together to design and run our own small studies to measure the effects of LLMs on our productivity and thinking. This seminar aims to develop students' ability to monitor their own use of LLMs, to notice when they are handing off thinking and decision-making to an LLM, and to decide if and when they want to do that. Together, we will develop techniques to help us see what impacts LLMs are having on our work and our minds.
 
-## Lecture
+## Meetings
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+Optional in-person sessions meet **Tuesdays 8–9pm EST**. Lectures will be recorded and available for async participation. Zoom link available in Canvas. First session: May 19.
 
-## Resources
+## Learning Objectives
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+- Explain the problems with focusing exclusively on productivity as a measure for success in LLM usage.
+- Design a study using HCI research methods to gain insight into the role of LLM use in metacognition.
+- Describe prompting strategies for LLMs to preserve, or enhance, critical thinking.
 
 ## Assignments
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+- Weeks 1–5 reflection prompts (5 pass/fail grades)
+- 3 studies
+  - Reflection diary study throughout (first half; optional throughout)
+  - Personal meaning map pre-post study (beginning and end)
+  - Individual study (second half)
+- Data collection for sample study 1 (1 pass/fail grade)
+- Data collection for sample study 2 (1 pass/fail grade)
+- Final study (4 pass/fail grades)
+  - Study design document
+  - Data collection
+  - Data analysis
+  - Findings presentation
+- Participation – weeks 1–10 (10 pass/fail grades)
+
+## Graded Components
+
+**Participation:** Students are expected to participate on a weekly basis through responding to prompts on Ed Discuss, attending the synchronous seminar, or scheduling 1-1 or group office hours with the instructor.
+
+**Reading Reflections:** For each of the first five weeks of the seminar, students will be assigned a role to read with LLMs vs. on their own. They will write a reflection on their experience with the reading and the way they read it.
+
+**Studies:** During the first five weeks, the instructor will assign students to collect data about their LLM use throughout the week. These small studies will familiarize students with research methods that will be used in their final study project.
+
+**Final Project:** Based on themes from the course and using the sample studies as a demonstration, students will design their own study and collect data to gain insight into an aspect of their own LLM usage.

@@ -1,39 +1,65 @@
 ---
 layout: home
-title: Just the Class
+title: Cognitive Science & LLMs
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Cognitive Science & LLMs
 ---
 
-# Just the Class
+# Cognitive Science & LLMs
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Are LLMs helping or hurting your productivity? Are they causing you to lose your skills or critical thinking ability? Both? These are open research questions, and the findings so far are mixed. In this seminar, we will review and discuss human-AI interaction research and work together to design and run our own small studies to measure the effects of LLMs on our productivity and thinking.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+**Optional in-person:** Tuesdays 8–9pm EST · Zoom link in Canvas · Starting May 19
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
-
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
-
-## Getting Started
-
-Getting started with Just the Class is simple.
-
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
-
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+Lectures will be recorded and available for async participation.
 
 ### Local development environment
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler.
+
+## Local Development
+
+To set up a local development environment:
+
+1. **Install Prerequisites**:
+   - Ensure you have Ruby `3.3.6` installed.
+   - If using Homebrew, install Ruby with `brew install ruby`.
+   - If using `rbenv`, install and select the correct version:
+     - `brew install rbenv`
+     - `rbenv install 3.3.6`
+     - `rbenv local 3.3.6`
+     - `rbenv rehash`
+     - Confirm you are using the correct Ruby:
+       - `ruby -v` should show `ruby 3.3.6`
+   - Install Bundler: `gem install bundler`
+
+2. **Clone and Setup**:
+   - Clone your repository: `git clone <your-repo-url>`
+   - Navigate to the project directory: `cd <your-repo-directory>`
+   - Install dependencies: `bundle install`
+
+3. **Run Locally**:
+   - Start the Jekyll server: `bundle exec jekyll serve`
+   - Open your browser to `http://localhost:4000` to view the site.
+   - The server will auto-reload when you make changes to files.
+
+For more details, see the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+
+## Deployment
+
+Just the Class is designed for deployment on GitHub Pages.
+
+1. **Configure GitHub Pages**:
+   - In your repository settings, go to "Pages" and set the source to "Deploy from a branch" (select `main` or `master` branch).
+   - Alternatively, use GitHub Actions for more control (see [GitHub Pages documentation](https://docs.github.com/en/pages)).
+
+2. **Deploy**:
+   - Commit your changes: `git add .` and `git commit -m "Update site"`
+   - Push to the configured branch: `git push origin main`
+   - GitHub Pages will automatically build and deploy your site. It may take a few minutes.
+   - Your site will be available at `https://<username>.github.io/<repository-name>` or your custom domain if configured.
+
+If you encounter build issues, check the repository's Actions tab for error logs.
