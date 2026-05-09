@@ -1,5 +1,6 @@
 ---
 title: Week 2 – LLM Interaction Modes
+week_date: "2026-05-26"
 ---
 
 **Topic**
@@ -7,3 +8,6 @@ title: Week 2 – LLM Interaction Modes
 
 **Assignment**
 : Data collection
+
+**Readings**
+: TBD

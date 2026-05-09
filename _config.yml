@@ -17,8 +17,8 @@ title: Cognitive Science & LLMs
 tagline: OMSCS Summer Seminar, 2026
 description: Learning how LLMs impact our cognition and how to use them in ways where we stay in the driver seat.
 author: Lara Karki
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/cog-sci-and-llms'
+url: 'https://laras126.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "starter content.md"]
 
 # Theme settings

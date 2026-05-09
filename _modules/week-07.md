@@ -1,5 +1,6 @@
 ---
 title: Week 7 – Flex
+week_date: "2026-06-30"
 ---
 
 **Topic**
@@ -7,3 +8,6 @@ title: Week 7 – Flex
 
 **Assignment**
 : Study 2 data collection continued
+
+**Readings**
+: TBD

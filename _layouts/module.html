@@ -1,4 +1,6 @@
-<h2 class="fs-4" id="{{ page.title | slugify }}" >{{ page.title }}</h2>
-<div class="module">
-  {{ content }}
+<div class="module-block"{% if page.week_date %} data-week-date="{{ page.week_date | date: '%Y-%m-%d' }}"{% endif %}>
+  <h2 class="fs-4" id="{{ page.title | slugify }}">{{ page.title }}{% if page.week_date %} <span class="week-date">({{ page.week_date | date: "%B %-d" }})</span>{% endif %}</h2>
+  <div class="module">
+    {{ content }}
+  </div>
 </div>

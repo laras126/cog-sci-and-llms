@@ -1,5 +1,6 @@
 ---
 title: Week 4 – HCI Research Methods
+week_date: "2026-06-09"
 ---
 
 **Topic**
@@ -7,3 +8,6 @@ title: Week 4 – HCI Research Methods
 
 **Assignment**
 : Reflection study analysis; start study 2
+
+**Readings**
+: TBD

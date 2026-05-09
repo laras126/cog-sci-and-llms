@@ -33,6 +33,34 @@ summary {
   width: 100%;
 }
 
+.week-date {
+  font-size: 0.8em;
+  font-weight: normal;
+  color: $grey-dk-000;
+  margin-left: $sp-2;
+}
+
+.next-class-callout {
+  border-left: 3px solid $link-color;
+  padding: $sp-4;
+  margin-bottom: $sp-6;
+  background-color: $sidebar-color;
+  border-radius: 4px;
+
+  .next-class-label {
+    font-size: 0.75rem;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: $link-color;
+    margin: 0 0 $sp-2 0;
+  }
+
+  .module-block h2 {
+    margin-top: 0;
+  }
+}
+
 .main-content {
   dl {
     display: block;

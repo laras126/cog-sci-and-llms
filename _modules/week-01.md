@@ -1,5 +1,6 @@
 ---
 title: Week 1 – Productivity Paradox
+week_date: "2026-05-19"
 ---
 
 **Topic**
@@ -7,3 +8,6 @@ title: Week 1 – Productivity Paradox
 
 **Assignment**
 : Reflection Study data collection start; PMM pre
+
+**Readings**
+: TBD

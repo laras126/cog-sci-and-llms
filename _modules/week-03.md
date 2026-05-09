@@ -1,5 +1,6 @@
 ---
 title: Week 3 – Metacognition & Self-Regulation
+week_date: "2026-06-02"
 ---
 
 **Topic**
@@ -7,3 +8,6 @@ title: Week 3 – Metacognition & Self-Regulation
 
 **Assignment**
 : Data collection
+
+**Readings**
+: TBD

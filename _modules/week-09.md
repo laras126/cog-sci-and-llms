@@ -1,5 +1,6 @@
 ---
 title: Week 9 – Flex
+week_date: "2026-07-14"
 ---
 
 **Topic**
@@ -7,3 +8,6 @@ title: Week 9 – Flex
 
 **Assignment**
 : Study 2 analysis; PMM post; PMM analysis
+
+**Readings**
+: TBD

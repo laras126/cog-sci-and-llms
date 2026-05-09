@@ -1,5 +1,6 @@
 ---
 title: Week 8 – Async Only
+week_date: "2026-07-07"
 ---
 
 **Topic**
@@ -7,3 +8,6 @@ title: Week 8 – Async Only
 
 **Assignment**
 : Study 2 collection continued; analysis started
+
+**Readings**
+: TBD

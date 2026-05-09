@@ -1,21 +1,3 @@
----
-layout: page
-title: Calendar
-description: Listing of course modules and topics.
----
-
-# Calendar
-
-<div id="next-class" class="next-class-callout" style="display:none">
-  <p class="next-class-label">Next Class</p>
-  <div id="next-class-content"></div>
-</div>
-
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
-
-<script>
 (function () {
   var blocks = Array.from(document.querySelectorAll('[data-week-date]'));
   if (!blocks.length) return;
@@ -24,7 +6,6 @@ description: Listing of course modules and topics.
   var target = blocks[blocks.length - 1];
 
   for (var i = 0; i < blocks.length; i++) {
-    // Switch to next block after 8pm EDT (UTC-4) on the session date
     var cutoff = new Date(blocks[i].dataset.weekDate + 'T20:00:00-04:00');
     if (now < cutoff) {
       target = blocks[i];
@@ -39,4 +20,3 @@ description: Listing of course modules and topics.
   document.getElementById('next-class-content').appendChild(clone);
   document.getElementById('next-class').style.display = '';
 })();
-</script>
