@@ -16,6 +16,8 @@ Are LLMs helping or hurting your productivity? Are they causing you to lose your
 
 Lectures will be recorded and available for async participation.
 
+{% include next-class.html %}
+
 ---
 
 [Weekly Schedule](calendar.md)

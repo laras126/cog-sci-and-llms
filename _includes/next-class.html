@@ -1,0 +1,13 @@
+{% assign now_ts = 'now' | date: '%s' | plus: 0 %}
+{% assign current_week = site.data.weeks | last %}
+{% for week in site.data.weeks %}
+  {% assign cutoff = week.date | date: '%s' | plus: 86400 %}
+  {% if now_ts < cutoff %}
+    {% assign current_week = week %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+<div class="next-class-callout">
+  <p class="next-class-label">Next Class</p>
+  {% include week-block.html week=current_week show_id=false %}
+</div>

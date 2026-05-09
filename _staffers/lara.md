@@ -10,6 +10,8 @@ meta:
 
 Ph.D. student in Human-Centered Computing at Georgia Tech, advised by Dr. Betsy DiSalvo on the DataWorks team. Research focus: career pathways for career changers, broadening definitions of computing work, and AI automation impacts on workers. Before her PhD, she worked as a self-taught software developer for a decade, and encounters with gatekeeping culture motivated her career change to research.
 
-[Website](https://larakarki.com){: .btn .btn-outline }
+Please send me a connection request on LinkedIn if you use it. Even though LinkedIn feels slimy sometimes, it is useful for exposure to new information and we can stay in touch.
+
 [LinkedIn](https://linkedin.com/in/notlaura){: .btn .btn-outline }
+[Website](https://larakarki.com){: .btn .btn-outline }
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=p6XFme4AAAAJ){: .btn .btn-outline }
