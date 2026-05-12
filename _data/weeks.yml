@@ -1,73 +1,73 @@
 - week: 1
   title: "Week 1 – Productivity Paradox"
   date: "2026-05-19"
-  topic: "Provocation: productivity paradox; intro to HCI research methods"
-  assignment: "Reflection Study data collection start; PMM pre"
-  assignment_url: "/assignments/reflection-study/"
+  topic: "Provocation: productivity paradox; intro to HCI research methods (PMM pre)"
+  assignment: "Diary study start"
+  assignment_url: "/assignments/diary-study/"
   readings: "TBD"
 
 - week: 2
   title: "Week 2 – LLM Interaction Modes"
   date: "2026-05-26"
   topic: "LLM interaction modes, reliance, non-use, sycophancy, hallucination"
-  assignment: "Data collection"
-  assignment_url: "/assignments/reflection-study/"
+  assignment: "Diary study data collection"
+  assignment_url: "/assignments/diary-study/"
   readings: "TBD"
 
 - week: 3
   title: "Week 3 – Metacognition & Self-Regulation"
   date: "2026-06-02"
   topic: "Metacognition and self-regulation; mapping metacognitive activities to LLM use examples; prompting strategies"
-  assignment: "Data collection"
-  assignment_url: "/assignments/reflection-study/"
+  assignment: "Diary study data collection"
+  assignment_url: "/assignments/diary-study/"
   readings: "TBD"
 
 - week: 4
   title: "Week 4 – HCI Research Methods"
   date: "2026-06-09"
   topic: "HCI research methods in more detail; review of methods used in prior exercises and analysis techniques"
-  assignment: "Reflection study analysis; start study 2"
-  assignment_url: "/assignments/study-2/"
+  assignment: "Diary study analysis"
+  assignment_url: "/assignments/diary-study/"
   readings: "TBD"
 
 - week: 5
   title: "Week 5 – Async Only"
   date: "2026-06-16"
   topic: "Async only — 1:1 or small group feedback"
-  assignment: "Reflection study 2 findings; submit study 2 design"
-  assignment_url: "/assignments/study-2/"
+  assignment: "Individual study design"
+  assignment_url: "/assignments/individual-study/"
   readings: "TBD"
 
 - week: 6
   title: "Week 6 – Flex"
   date: "2026-06-23"
   topic: "Flex: guest speaker, FAQ, 1:1 support, or open topic"
-  assignment: "Study 2 data collection underway"
-  assignment_url: "/assignments/study-2/"
+  assignment: "Individual study data collection"
+  assignment_url: "/assignments/individual-study/"
   readings: "TBD"
 
 - week: 7
   title: "Week 7 – Flex"
   date: "2026-06-30"
   topic: "Flex: guest speaker, FAQ, 1:1 support, or open topic"
-  assignment: "Study 2 data collection continued"
-  assignment_url: "/assignments/study-2/"
+  assignment: "Individual study data collection"
+  assignment_url: "/assignments/individual-study/"
   readings: "TBD"
 
 - week: 8
   title: "Week 8 – Async Only"
   date: "2026-07-07"
   topic: "Async only — 1:1 or small group support"
-  assignment: "Study 2 collection continued; analysis started"
-  assignment_url: "/assignments/study-2/"
+  assignment: "Individual study data analysis"
+  assignment_url: "/assignments/individual-study/"
   readings: "TBD"
 
 - week: 9
   title: "Week 9 – Flex"
   date: "2026-07-14"
   topic: "Flex: guest speaker, FAQ, 1:1 support, or open topic"
-  assignment: "Study 2 analysis; PMM post; PMM analysis"
-  assignment_url: "/assignments/pmm-study/"
+  assignment: "Individual study findings presentation"
+  assignment_url: "/assignments/individual-study/"
   readings: "TBD"
 
 - week: 10
@@ -75,5 +75,5 @@
   date: "2026-07-21"
   topic: "Present findings; reflect on changes in LLM use over the seminar"
   assignment: "Findings presentation"
-  assignment_url: "/assignments/final-study/"
+  assignment_url: "/assignments/individual-study/"
   readings: "TBD"
