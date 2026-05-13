@@ -19,7 +19,7 @@
           {{ include.week.readings }}
         {% endif %}
       </dd>
-      <dt>Next Up</dt>
+      <dt>Work On</dt>
       <dd>
         {% for item in include.week.assignments %}
           <a href="{{ item[1] | relative_url }}">{{ item[0] }}</a>{% unless forloop.last %} | {% endunless %}

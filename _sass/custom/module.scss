@@ -75,6 +75,41 @@
         margin: 0;
       }
 
+      .readings-list {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        gap: $sp-2;
+      }
+
+      .reading-item {
+        display: flex;
+        gap: $sp-2;
+        align-items: baseline;
+      }
+
+      .reading-type {
+        display: inline-block;
+        flex-shrink: 0;
+        font-size: 0.65rem;
+        font-weight: bold;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        padding: 0.15em 0.5em;
+        border-radius: 3px;
+
+        &--paper {
+          background-color: #dbeafe;
+          color: #1d4ed8;
+        }
+
+        &--podcast {
+          background-color: #ede9fe;
+          color: #6d28d9;
+        }
+      }
+
       dl {
         display: flex;
         flex-direction: column;

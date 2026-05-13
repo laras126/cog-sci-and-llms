@@ -5,7 +5,9 @@
   assignments:
     Diary Study Setup: /assignments/diary-study/
     Personal Meaning Map - Pre: /assignments/pmm-study/
-  readings: "TBD"
+  readings:
+  - type: podcast
+    text: "Prof G Markets. Is AI Making Us Dumber? https://www.youtube.com/watch?v=9n2j8Xo7l3k"
 
 - week: 2
   title: "Week 2 – LLM Interaction Modes"

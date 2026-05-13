@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
       var a = document.createElement('a');
       a.href = match[1];
-      a.textContent = match[1];
+      a.textContent = 'Link';
       fragment.appendChild(a);
       lastIndex = match.index + match[1].length;
     }

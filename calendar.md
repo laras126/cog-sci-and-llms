@@ -7,7 +7,7 @@ nav_order: 1
 
 # Weekly Plans
 
-__Note:__  "Readings" listed for each class will be related to the topics of that class, so try to do them before that class. The "Next Up" links point to what to work on between one class to the next.
+__Note:__  "Readings" listed for each class will be related to the topics of that class, so try to do them before that class. The "Work On" links point to what to work on between one class to the next.
 
 {% include next-class.html %}
 

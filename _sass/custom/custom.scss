@@ -62,6 +62,12 @@ summary {
 }
 
 .main-content {
+  .readings-list li::before {
+    content: "";
+  }
+}
+
+.main-content {
   dl {
     display: block;
     grid-template-columns: none;
