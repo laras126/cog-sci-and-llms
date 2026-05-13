@@ -76,6 +76,7 @@ summary {
   dt {
     font-weight: bold;
     text-align: start;
+    padding-left: 0 !important;
 
     &::after {
       content: normal;

@@ -1,10 +1,10 @@
 <div class="module-block">
   <h2 class="fs-4"{% if include.show_id %} id="{{ include.week.title | slugify }}"{% endif %}>{{ include.week.title }} <span class="week-date">({{ include.week.date | date: "%B %-d" }})</span></h2>
   <div class="module">
-    <dl>
+    <dl class="week-plan">
       <dt>Topic</dt>
       <dd>{{ include.week.topic }}</dd>
-      <dt>Readings</dt>
+      <dt>Do Before</dt>
       <dd>
         {% if include.week.readings[0].type %}
           <ul class="readings-list">

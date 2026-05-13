@@ -47,6 +47,10 @@
       font-weight: normal;
       text-align: right;
 
+      @include mq(sm) {
+        padding: $sp-1 $sp-2;
+      }
+
       +dd {
         border-top: $border $border-color;
       }

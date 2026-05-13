@@ -34,6 +34,3 @@ Lectures will be recorded and available for async participation.
 
 [About Lara](staff.md)
 : Info about me and office hours booking.
-
-[Announcements](announcements.md)
-: Course updates and weekly posts.
