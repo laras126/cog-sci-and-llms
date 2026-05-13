@@ -4,16 +4,27 @@
     <dl>
       <dt>Topic</dt>
       <dd>{{ include.week.topic }}</dd>
-      <dt>Assignment</dt>
+      <dt>Readings</dt>
       <dd>
-        {% if include.week.assignment_url %}
-          <a href="{{ include.week.assignment_url | relative_url }}">{{ include.week.assignment }}</a>
+        {% if include.week.readings[0].type %}
+          <ul class="readings-list">
+            {% for reading in include.week.readings %}
+              <li>
+                <span class="reading-type reading-type--{{ reading.type }}">{{ reading.type | capitalize }}</span>
+                <span class="reading-text">{{ reading.text }}</span>
+              </li>
+            {% endfor %}
+          </ul>
         {% else %}
-          {{ include.week.assignment }}
+          {{ include.week.readings }}
         {% endif %}
       </dd>
-      <dt>Readings</dt>
-      <dd>{{ include.week.readings }}</dd>
+      <dt>Next Up</dt>
+      <dd>
+        {% for item in include.week.assignments %}
+          <a href="{{ item[1] | relative_url }}">{{ item[0] }}</a>{% unless forloop.last %} | {% endunless %}
+        {% endfor %}
+      </dd>
     </dl>
   </div>
 </div>
