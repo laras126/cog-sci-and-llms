@@ -6,9 +6,8 @@ nav_order: 3
 
 # Assignments
 
-There are three studies in this seminar, plus weekly participation and reflection prompts in the first half.
+The assignments for the seminar will be conducting your own studies on LLM use. Through these, you will learn research methods and approaches to evaluating the impacts of LLM use, and you can take these approaches back to your workplace.
 
-- [Reflection Study](reflection-study/) — weeks 1–4
-- [Personal Meaning Map](pmm-study/) — week 1 (pre) and week 9 (post)
-- [Study 2](study-2/) — weeks 4–9
-- [Final Study](final-study/) — weeks 5–10
+There are three main studies in this seminar, plus reading reflection prompts - which are also a study.
+
+All assignments have a corresponding assignment in Canvas. The purpose of these is to track your progress - they won't be graded other than did you do them or not.

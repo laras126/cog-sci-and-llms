@@ -2,7 +2,7 @@
 layout: page
 title: Personal Meaning Map
 parent: Assignments
-nav_order: 1
+nav_order: 2
 ---
 
 # Personal Meaning Map (PMM)
@@ -16,10 +16,9 @@ nav_order: 1
 
 ---
 
-The PMM study is a way to see how your ideas about LLMs have evolved over the course of the summer. 
+The PMM study is a way to see how your ideas about LLMs have evolved over the course of the seminar. 
 
-**Active:** Week 1 (pre) and Week 9 (post) <br>
-**Grade:** 3 pass/fail grades for submitting both pre/post maps and comparative analysis
+**Active:** Week 1 (pre) and Week 9 (post)
 
 ## Overview
 

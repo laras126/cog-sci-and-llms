@@ -1,6 +1,6 @@
 # Cognitive Science & LLMs
 
-Course website for the OMSCS Summer Seminar 2026, built with [Just the Class](https://github.com/kevinlin1/just-the-class).
+Course website for the 8001 OMSCS Seminar 2026, built with [Just the Class](https://github.com/kevinlin1/just-the-class).
 
 ## Local Development
 

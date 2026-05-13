@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Cognitive Science & LLMs
-tagline: OMSCS Summer Seminar, 2026
+tagline: 8001 OMSCS Seminar, 2026
 description: Learning how LLMs impact our cognition and how to use them in ways where we stay in the driver seat.
 author: Lara Karki
 baseurl: '/cog-sci-and-llms'

@@ -2,7 +2,7 @@
 layout: page
 title: Diary Study
 parent: Assignments
-nav_order: 0
+nav_order: 1
 ---
 
 # Diary Study
@@ -18,8 +18,7 @@ nav_order: 0
 
 From day 1, we will start collecting qualitative data to better understand our own LLM use. Through this study, we can find themes on what use cases are successful or not successful, and build the habit of reflecting on our LLM use. You will design another study in week 5 to get more insight into themes emerging from this study.
 
-**Active:** Weeks 1–5 (optional to continue until week 10)<br>
-**Grade:** 1 pass/fail grade for submitting your findings in week 5
+**Active:** Weeks 1–5 (optional to continue until end of seminar - could be a compliment to your individual study)
 
 ## Overview
 

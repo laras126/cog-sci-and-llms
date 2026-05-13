@@ -2,6 +2,7 @@
 layout: page
 title: Individual Study
 parent: Assignments
+nav_order: 3
 ---
 
 # Indivdual Study
@@ -16,7 +17,6 @@ parent: Assignments
 ---
 
 **Active:** Weeks 5–10 <br>
-**Grade:** 2 pass/fail for study design document and final findings presentation
 
 ## Overview
 

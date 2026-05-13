@@ -31,28 +31,14 @@ Optional in-person sessions meet **Tuesdays 8–9pm EST**. Lectures will be reco
 - Design a study using HCI research methods to gain insight into the role of LLM use in metacognition.
 - Describe prompting strategies for LLMs to preserve, or enhance, critical thinking.
 
-## Assignments
+## Assignments & Grading
 
-- Weeks 1–5 reflection prompts (5 pass/fail grades)
-- 3 studies
-  - Reflection diary study throughout (first half; optional throughout)
-  - Personal meaning map pre-post study (beginning and end)
-  - Individual study (second half)
-- Data collection for sample study 1 (1 pass/fail grade)
-- Data collection for sample study 2 (1 pass/fail grade)
-- Final study (4 pass/fail grades)
-  - Study design document
-  - Data collection
-  - Data analysis
-  - Findings presentation
-- Participation – weeks 1–10 (10 pass/fail grades)
+This is a pass/fail seminar only for 1 credit. There will be several assignments added to Canvas to help you keep up with and track your work. There are no due dates. If you do more than half of them by the end of the seminar, you pass!
 
-## Graded Components
+**Participation:** You are expected to participate on a weekly basis through responding to prompts on Ed Discuss, attending the synchronous seminar, or scheduling 1-1 or group office hours with me. However, I won't be keeping track of this.
 
-**Participation:** Students are expected to participate on a weekly basis through responding to prompts on Ed Discuss, attending the synchronous seminar, or scheduling 1-1 or group office hours with the instructor.
+**Reading Reflections:** For each of the first five weeks of the seminar, you will read papers both with LLMs and without them. You will then write a reflection on your experience with the reading and what you took from it. We can use these to compare the reading experience with/without LLMs.
 
-**Reading Reflections:** For each of the first five weeks of the seminar, students will be assigned a role to read with LLMs vs. on their own. They will write a reflection on their experience with the reading and the way they read it.
+**Studies:** During the first five weeks, I will assign you to collect data about their LLM use throughout the week through the Diary Study. This will familiarize you with research methods that will be used in your individual study project.
 
-**Studies:** During the first five weeks, the instructor will assign students to collect data about their LLM use throughout the week. These small studies will familiarize students with research methods that will be used in their final study project.
-
-**Final Project:** Based on themes from the course and using the sample studies as a demonstration, students will design their own study and collect data to gain insight into an aspect of their own LLM usage.
+**Individual Study:** Based on themes from the course and using the sample studies as a demonstration, you will design their own study and collect data to gain insight into an aspect of their own LLM usage.
