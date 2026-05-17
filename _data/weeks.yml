@@ -1,7 +1,7 @@
 - week: 1
-  title: "Week 1 – Productivity Paradox"
+  title: "Week 1 – Provocation: Productivity Paradox"
   date: "2026-05-19"
-  topic: "Provocation: productivity paradox; intro to HCI research methods (PMM pre)"
+  topic: "Introducing the seminar, use productivity paradox to frame our goals"
   assignments:
     Diary Study Setup: /assignments/diary-study/
     Personal Meaning Map - Pre: /assignments/pmm-study/
@@ -10,21 +10,21 @@
     text: "Prof G Markets. Is AI Making Us Dumber? https://youtu.be/eSABedBwZjQ?si=Za66ioTCEkwhglMN – Critique something and share in Ed Discuss thread."
 
 - week: 2
-  title: "Week 2 – Metacognition & Self-Regulation"
+  title: "Week 2 – Foundational Knowledge: Cognitive Science"
   date: "2026-06-02"
-  topic: "Metacognition and self-regulation; mapping metacognitive activities to LLM use examples; prompting strategies"
+  topic: "Review the foundational concepts of knowledge and learning process; focus on metacognition, self-regulation, and reflection; tie it back to LLMs"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
   readings: 
   - type: paper
-    text: "Keshav, S. How to Read a Paper. https://web.stanford.edu/class/cs114/reading-keshav.pdf"
+    text: "Keshav, S. How to Read a Paper. https://web.stanford.edu/class/cs114/reading-keshav.pdf (read w/o LLM - it is short)"
   - type: paper
-    text: ""
+    text: "TBD"
 
 - week: 3
-  title: "Week 3 – LLM Interaction Modes"
+  title: "Week 3 – Foundational Knowledge: LLMs & Human Factors"
   date: "2026-05-26"
-  topic: "LLM interaction modes, reliance, non-use, sycophancy, hallucination"
+  topic: "LLM interaction modes, reliance, non-use, sycophancy, hallucination; key concepts to understand the risks and potential"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
   readings: 
@@ -36,27 +36,35 @@
     text: "Zhi, Jiayin, Harsh Kumar, and Mina Lee. 2026. “Investigating the Effects of LLM Use on Critical Thinking Under Time Constraints: Access Timing and Time Availability.” Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI ’26, April 13, 1–21. https://doi.org/10.1145/3772318.3791796."
 
 - week: 4
-  title: "Week 4 – HCI Research Methods"
+  title: "Week 4 – Practical Strategies: Cognitive Forcing Functions vs. Delegation"
   date: "2026-06-09"
-  topic: "HCI research methods in more detail; review of methods used in prior exercises and analysis techniques"
+  topic: "Stragegies for working with chatbots and agents, including prompting and frameworks for thinking about what to delegate in your work; applying the prior lecture content to practice"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
-  readings:
+  readings: 
   - type: paper
-    text: "Jowsey, Tanisha, Virginia Braun, Victoria Clarke, Deborah Lupton, and Michelle Fine. 2025. “We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research.” Qualitative Inquiry, December 17, 10778004251401851. https://doi.org/10.1177/10778004251401851."
+    text: "Sarkar, Advait. 2024. “AI Should Challenge, Not Obey.” Commun. ACM 67 (10): 18–21. https://doi.org/10.1145/3649404."
+  - type: paper
+    text: "Buçinca, Zana, Maja Barbara Malaya, and Krzysztof Z. Gajos. 2021. “To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making.” Proc. ACM Hum.-Comput. Interact. 5 (CSCW1): 188:1-188:21. https://doi.org/10.1145/3449287."
+  - type: paper
+    text: "Zhi, Jiayin, Harsh Kumar, and Mina Lee. 2026. “Investigating the Effects of LLM Use on Critical Thinking Under Time Constraints: Access Timing and Time Availability.” Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI ’26, April 13, 1–21. https://doi.org/10.1145/3772318.3791796."
 
 - week: 5
-  title: "Week 5 – Async Only"
+  title: "Week 5 – Small Studies: HCI Research Methods"
   date: "2026-06-16"
   topic: "Async only — 1:1 or small group feedback"
   assignments:
     Individual Study: /assignments/individual-study/
-  readings: "TBD"
+  readings: 
+  - type: paper
+    text: "Jowsey, Tanisha, Virginia Braun, Victoria Clarke, Deborah Lupton, and Michelle Fine. 2025. “We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research.” Qualitative Inquiry, December 17, 10778004251401851. https://doi.org/10.1177/10778004251401851."
+  - type: paper
+    text: "TBD"
 
 - week: 6
-  title: "Week 6 – Flex"
+  title: "Week 6 – Async Only"
   date: "2026-06-23"
-  topic: "Flex: guest speaker, FAQ, 1:1 support, or open topic"
+  topic: "1:1 or small group feedback as you design individual study"
   assignments:
     Individual Study: /assignments/individual-study/
   readings: "TBD"
@@ -64,15 +72,7 @@
 - week: 7
   title: "Week 7 – Flex"
   date: "2026-06-30"
-  topic: "Flex: guest speaker, FAQ, 1:1 support, or open topic"
-  assignments:
-    Individual Study: /assignments/individual-study/
-  readings: "TBD"
-
-- week: 8
-  title: "Week 8 – Async Only"
-  date: "2026-07-07"
-  topic: "Async only — 1:1 or small group support"
+  topic: "Guest speaker, FAQ, or requested topic"
   assignments:
     Individual Study: /assignments/individual-study/
   readings: "TBD"
@@ -80,10 +80,19 @@
 - week: 9
   title: "Week 9 – Flex"
   date: "2026-07-14"
-  topic: "Flex: guest speaker, FAQ, 1:1 support, or open topic"
+  topic: "Guest speaker, FAQ, or requested topic"
   assignments:
     Individual Study: /assignments/individual-study/
     Personal Meaning Map: /assignments/pmm-study/
+  readings: "TBD"
+
+- week: 8
+  title: "Week 8 – Async Only"
+  date: "2026-07-07"
+  topic: "1:1 or small group support as you develop findings from your studies"
+  assignments:
+    Individual Study: /assignments/individual-study/
+    Personal Meaning Map - Post: /assignments/pmm-study/
   readings: "TBD"
 
 - week: 10
