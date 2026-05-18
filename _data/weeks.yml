@@ -12,7 +12,7 @@
 - week: 2
   title: "Week 2 – Foundational Knowledge: Cognitive Science"
   date: "2026-06-02"
-  topic: "Review the foundational concepts of knowledge and learning process; focus on metacognition, self-regulation, and reflection; tie it back to LLMs"
+  topic: "Review the foundational concepts of knowledge and learning process; tie it back to LLMs"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
   readings: 
@@ -46,7 +46,7 @@
 - week: 4
   title: "Week 4 – Practical Strategies: Cognitive Forcing Functions vs. Delegation"
   date: "2026-06-09"
-  topic: "Stragegies for working with chatbots and agents, including prompting and frameworks for thinking about what to delegate in your work; applying the prior lecture content to practice"
+  topic: "Strategies for working with chatbots and agents, including prompting and frameworks for thinking about what to delegate in your work; applying the prior lecture content to practice"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
   readings: 

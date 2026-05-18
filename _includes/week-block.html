@@ -10,7 +10,7 @@
           <ul class="readings-list">
             {% for reading in include.week.readings %}
               <li>
-                <span class="reading-type reading-type--{{ reading.type }}">{{ reading.type | capitalize }}</span>
+                <span class="reading-type reading-type--{{ reading.type | replace: ' ', '-' }}">{{ reading.type | capitalize }}</span>
                 <span class="reading-text">{{ reading.text }}</span>
               </li>
             {% endfor %}

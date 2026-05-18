@@ -87,12 +87,6 @@
         gap: $sp-2;
       }
 
-      .reading-item {
-        display: flex;
-        gap: $sp-2;
-        align-items: baseline;
-      }
-
       .reading-type {
         display: inline-block;
         flex-shrink: 0;
@@ -102,6 +96,8 @@
         text-transform: uppercase;
         padding: 0.15em 0.5em;
         border-radius: 3px;
+        background-color: #dbeafe;
+        color: #1d4ed8;
 
         &--paper {
           background-color: #dbeafe;
@@ -111,6 +107,31 @@
         &--podcast {
           background-color: #ede9fe;
           color: #6d28d9;
+        }
+
+        &--short-video {
+          background-color: #fef3c7;
+          color: #92400e;
+        }
+
+        &--lecture {
+          background-color: #ccfbf1;
+          color: #0f766e;
+        }
+
+        &--book-chapter {
+          background-color: #dcfce7;
+          color: #15803d;
+        }
+
+        &--blog-post {
+          background-color: #fce7f3;
+          color: #9d174d;
+        }
+
+        &--news-article {
+          background-color: #ffedd5;
+          color: #c2410c;
         }
       }
 
