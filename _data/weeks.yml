@@ -62,7 +62,7 @@
   date: "2026-06-16"
   topic: "Async only — 1:1 or small group feedback"
   assignments:
-    Individual Study: /assignments/individual-study/
+    Individual Study Research Plan: /assignments/individual-study/
   readings: 
   - type: paper
     text: "Jowsey, Tanisha, Virginia Braun, Victoria Clarke, Deborah Lupton, and Michelle Fine. 2025. “We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research.” Qualitative Inquiry, December 17, 10778004251401851. https://doi.org/10.1177/10778004251401851."
@@ -74,7 +74,7 @@
   date: "2026-06-23"
   topic: "1:1 or small group feedback as you design individual study"
   assignments:
-    Individual Study: /assignments/individual-study/
+    Individual Study Data Collection: /assignments/individual-study/
   readings: "TBD"
 
 - week: 7
@@ -82,24 +82,23 @@
   date: "2026-06-30"
   topic: "Guest speaker, FAQ, or requested topic"
   assignments:
-    Individual Study: /assignments/individual-study/
-  readings: "TBD"
-
-- week: 9
-  title: "Week 9 – Flex"
-  date: "2026-07-14"
-  topic: "Guest speaker, FAQ, or requested topic"
-  assignments:
-    Individual Study: /assignments/individual-study/
-    Personal Meaning Map: /assignments/pmm-study/
+    Individual Study Data Collection: /assignments/individual-study/
   readings: "TBD"
 
 - week: 8
-  title: "Week 8 – Async Only"
+  title: "Week 8 – Flex"
+  date: "2026-07-14"
+  topic: "Guest speaker, FAQ, or requested topic"
+  assignments:
+    Individual Study Data Collection: /assignments/individual-study/
+  readings: "TBD"
+
+- week: 9
+  title: "Week 9 – Async Only"
   date: "2026-07-07"
   topic: "1:1 or small group support as you develop findings from your studies"
   assignments:
-    Individual Study: /assignments/individual-study/
+    Individual Study Analysis: /assignments/individual-study/
     Personal Meaning Map - Post: /assignments/pmm-study/
   readings: "TBD"
 
@@ -108,5 +107,5 @@
   date: "2026-07-21"
   topic: "Present findings; reflect on changes in LLM use over the seminar"
   assignments:
-    Individual Study: /assignments/individual-study/
+    Individual Study Findings Deck: /assignments/individual-study/
   readings: "TBD"
