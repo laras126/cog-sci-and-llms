@@ -17,9 +17,17 @@
     Diary Study Data Collection: /assignments/diary-study/
   readings: 
   - type: paper
-    text: "Keshav, S. How to Read a Paper. https://web.stanford.edu/class/cs114/reading-keshav.pdf (read w/o LLM - it is short)"
-  - type: paper
-    text: "TBD"
+    text: "Keshav, S. 2007. “How to Read a Paper.” ACM SIGCOMM Computer Communication Review 37 (3)."
+  - type: book chapter
+    text: "Chapter 1, Representation and Computation - Thagard, Paul. 2005. Mind: Introduction to Cognitive Science. 2. ed. A Bradford Book. MIT."
+  - type: book chapter
+    text: "Introduction - Lave, Jean. 2003. Cognition in Practice: Mind, Mathematics and Culture in Everyday Life. Transferred to digital print. Cambridge Univ. Press."
+  - type: short video
+    text: "Maths in the book and on the street (The Wire) https://www.youtube.com/watch?v=O1mmePD549o"
+  - type: short video
+    text: "Cards at lunch in Prezbo's class (The Wire) https://www.youtube.com/watch?v=haK7B-VeSpY"
+  - type: short video
+    text: "Dice in Prezbo's class (The Wire) https://www.youtube.com/watch?v=joshL_IWEy8"
 
 - week: 3
   title: "Week 3 – Foundational Knowledge: LLMs & Human Factors"

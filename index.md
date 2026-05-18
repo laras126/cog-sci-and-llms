@@ -14,7 +14,7 @@ Are LLMs helping or hurting your productivity? Are they causing you to lose your
 
 **Synchronous Meeting:** Tuesdays 8–9pm EST · Zoom link in Canvas · Starting May 19
 
-Lectures will be recorded and available for async participation.
+Lectures will be recorded and available for async participation. **All readings area available in [this shared folder.](https://gtvault-my.sharepoint.com/:f:/g/personal/lschenck3_gatech_edu/IgCHFQ5An_JFQLxSNjc1GLIRAQyf5kEcH0Ut-eyNCYZd9k4?e=yeKaxU)**
 
 {% include next-class.html %}
 
