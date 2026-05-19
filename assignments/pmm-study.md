@@ -26,7 +26,7 @@ A Personal Meaning Map is a method for capturing what you know and how you think
 
 ## Steps
 
-1. Watch this video about creating a personal meaning map and how to record the content.
+1. Watch the beginning of the Week 1 recorded lecture to see how to create the map (this will be recorded and uploaded 5/19). 
 2. Week 1: Upload your initial map and your reflection transcript to Canvas. 
 2. Week 9: Upload your final map and your reflection transcript to Canvas. 
 3. Include a comparison of the pre/post maps in your final presentation.
