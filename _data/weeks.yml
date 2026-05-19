@@ -32,32 +32,34 @@
 - week: 3
   title: "Week 3 – Foundational Knowledge: LLMs & Human Factors"
   date: "2026-05-26"
-  topic: "LLM interaction modes, reliance, non-use, sycophancy, hallucination; key concepts to understand the risks and potential"
+  topic: "LLM interaction modes, reliance, sycophancy, hallucination, hiding; key concepts to understand the risks and potential"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
   readings: 
   - type: blog post
     text: "Mark Reidl - The Intuition Behind How Large Language Models Work, Part I https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a"
   - type: paper
+    text: "Sarkar, Advait. 2024. “AI Should Challenge, Not Obey.” Commun. ACM 67 (10): 18–21. https://doi.org/10.1145/3649404."
+  - type: paper
     text: "Xia, Qing Nancy, Marios Constantinides, Advait Sarkar, Duncan Brumby, and Anna Cox. 2026. “‘If You’re Very Clever, No One Knows You’ve Used It’: The Social Dynamics of Developing Generative AI Literacy in the Workplace.” Preprint, April 26. https://doi.org/10.1145/3808045.3808050."
   - type: paper
-    text: "Hosseini, Mohammad, Bert Gordijn, Gregory E. Kaebnick, and Kristi Holmes. 2025. “Disclosing Generative AI Use for Writing Assistance Should Be Voluntary.” Research Ethics 21 (4): 728–35. https://doi.org/10.1177/17470161251345499."
-  - type: paper
-    text: "TBD"
-
+    text: "Simkute, Auste, Lev Tankelevitch, Viktor Kewenig, Ava Elizabeth Scott, Abigail Sellen, and Sean Rintel. 2025. “Ironies of Generative AI: Understanding and Mitigating Productivity Loss in Human-AI Interaction.” International Journal of Human–Computer Interaction 41 (5): 2898–919. https://doi.org/10.1080/10447318.2024.2405782."
+  
 - week: 4
-  title: "Week 4 – Practical Strategies: Cognitive Forcing Functions vs. Delegation"
+  title: "Week 4 – Practical Strategies"
   date: "2026-06-09"
   topic: "Strategies for working with chatbots and agents, including prompting and frameworks for thinking about what to delegate in your work; applying the prior lecture content to practice"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
   readings: 
   - type: paper
-    text: "Sarkar, Advait. 2024. “AI Should Challenge, Not Obey.” Commun. ACM 67 (10): 18–21. https://doi.org/10.1145/3649404."
-  - type: paper
     text: "Buçinca, Zana, Maja Barbara Malaya, and Krzysztof Z. Gajos. 2021. “To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making.” Proc. ACM Hum.-Comput. Interact. 5 (CSCW1): 188:1-188:21. https://doi.org/10.1145/3449287."
   - type: paper
     text: "Zhi, Jiayin, Harsh Kumar, and Mina Lee. 2026. “Investigating the Effects of LLM Use on Critical Thinking Under Time Constraints: Access Timing and Time Availability.” Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI ’26, April 13, 1–21. https://doi.org/10.1145/3772318.3791796."
+  - type: paper
+    text: "Hosseini, Mohammad, Bert Gordijn, Gregory E. Kaebnick, and Kristi Holmes. 2025. “Disclosing Generative AI Use for Writing Assistance Should Be Voluntary.” Research Ethics 21 (4): 728–35. https://doi.org/10.1177/17470161251345499."
+  - type: paper
+    text: "Cha, Inha, and Richmond Y. Wong. 2025. “Understanding Socio-Technical Factors Configuring AI Non-Use in UX Work Practices.” Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, April 26, 1–17. https://doi.org/10.1145/3706598.3713140."
 
 - week: 5
   title: "Week 5 – Small Studies: HCI Research Methods"
