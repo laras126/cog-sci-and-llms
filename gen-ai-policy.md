@@ -10,14 +10,16 @@ nav_order: 4
 This seminar is all about using gen AI and understanding its impacts on cognition through experimentation and reflection. So, there are some guidelines, and following them will help you benefit from the seminar experience.
 
 - Use gen AI (namely LLMs) **intentionally and refectively, not automatically**, according to guidelines as we go through them in the seminar, for example, if you find yourself turning to LLMs immediately to do tasks for you for the same of time, think about that.
-- In parts of the seminar, you may be directed to use or not use gen AI for a task -- following that guide is a key part of benefitting from the content.
-- Noticing and being honest about your gen AI use is essential to research integrity and your own learning -- **always disclose** gen AI use: describe what you used it for, what the experience was like, and how it shaped the result
+- In parts of the seminar, you may be directed to use or not use gen AI for a task, do try to do that.
+- Noticing and being honest about your gen AI use is essential to research integrity and your own learning -- disclose your gen AI use: describe what you used it for, what the experience was like, and how it shaped the result (see below).
 
 ### When to disclose
 
 Mainly when you are submitting any finished assignment - namely, reading reflections (if you used the LLM in writing, in addition to incorporating it into your reading as instructed), your Individual Study Plan, the Diary Study codebook, and the final presentation. Please use the template below. 
 
 ### Disclosure template 
+
+When writing your disclosure, I suggest looking back at your chat history to see what you used it for, and reflecting according to that.
 
 From me, Lara, from making this website:
 - **What I used and what for:** I used Claude Code in creating this page/website - I fed it content I already wrote and asked it to fill in the related areas on the site, and to expand on the content in particular ways, e.g., add the highlights section below.
