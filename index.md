@@ -18,6 +18,8 @@ Lectures will be recorded and available for async participation. **All readings 
 
 {% include next-class.html %}
 
+[View full schedule](calendar.md)
+
 ---
 
 [Weekly Topics](calendar.md)

@@ -35,7 +35,7 @@ There is no right/wrong length to these - mine vary from around 30ish words to 1
 
 ## Steps
 
-1. Set up the email reminder automation in MS Workflows. Here is a tutorial video. Make sure to test it. 
+1. Set up the email reminder automation in MS Workflows (or another tool of your choice). [Here is a tutorial video](https://www.loom.com/share/44d99fc6a1b140d18ba356520cf85d53). Make sure to test it. 
 2. Start data collection - complete your entries at the beginning and end of the days. 
 3. It's okay to miss a day or to make up a PM entry the next AM - we can handle that in data cleaning before analysis.
 4. We will discuss analysis around week 4.
