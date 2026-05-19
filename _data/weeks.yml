@@ -36,6 +36,8 @@
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
   readings: 
+  - type: blog post
+    text: "Mark Reidl - The Intuition Behind How Large Language Models Work, Part I https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a"
   - type: paper
     text: "Xia, Qing Nancy, Marios Constantinides, Advait Sarkar, Duncan Brumby, and Anna Cox. 2026. “‘If You’re Very Clever, No One Knows You’ve Used It’: The Social Dynamics of Developing Generative AI Literacy in the Workplace.” Preprint, April 26. https://doi.org/10.1145/3808045.3808050."
   - type: paper
