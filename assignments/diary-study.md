@@ -35,7 +35,11 @@ There is no right/wrong length to these - mine vary from around 30ish words to 1
 
 ## Steps
 
+1. Create a form (e.g., MS forms or Google forms) for data collection with two paragraph text fields named:
+    1. AM: Think about your tasks coming up today. How do you think you will use LLMs?
+    2. PM: PM: How did you use LLMs today? Were there any moments that stood out to you, e.g., successful usage, or frustrating usage?
 1. Set up the email reminder automation in MS Workflows (or another tool of your choice). [Here is a tutorial video](https://www.loom.com/share/44d99fc6a1b140d18ba356520cf85d53). Make sure to test it. 
+    1. In the email body, paste the link to your form for data collection.
 2. Start data collection - complete your entries at the beginning and end of the days. 
 3. It's okay to miss a day or to make up a PM entry the next AM - we can handle that in data cleaning before analysis.
 4. We will discuss analysis around week 4.
@@ -47,4 +51,4 @@ There is no right/wrong length to these - mine vary from around 30ish words to 1
 
 ## Gen AI Guidelines
 
-Definitely DO NOT write your reflections with an LLM...but you could discuss your reflection with an LLM and include that experience in your reflection.
+Probably do not ask an LLM to reflect for you...but you could discuss your reflection with an LLM and include that experience in your reflection.
