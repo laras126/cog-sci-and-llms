@@ -22,9 +22,10 @@ I will also add some of my own approaches:
     - Consider the date, what was going on in the world at that time?
     - Look up the author, what might their perspective be?
     - Look up where the paper was published or look up the book - what is the general topic or area?
-- When you need a plainer language description:
+- When you need a plainer language description or the writing is tough to understand:
     - Look up the paper on Google Scholar and look at papers that cited it. Look for a more recent paper and find where they cited it in the paper, and they maybe provided a big picture description of it.
     - Of course you can also ask the LLM, but consider how important this topic is for you to learn before you do that (less learning happens when the answer is given to you, as we will discuss). 
+    - I also will skim a paragraph and if something then jumps out at me as interesting, I go back enough to best understand that sentence.
 - If there are general concepts or language referenced you don't know about:
     - Look up concepts on Youtube or, of course, use an LLM for explainers
 - Focus on the beginnings and ends - first and last paragraphs of chapters, first and last sentences of paragraphs.
