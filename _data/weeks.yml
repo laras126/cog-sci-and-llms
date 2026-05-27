@@ -11,7 +11,7 @@
 
 - week: 2
   title: "Week 2 – Foundational Knowledge: Cognitive Science"
-  date: "2026-06-02"
+  date: "2026-05-26"
   topic: "Review the foundational concepts of knowledge and learning process; tie it back to LLMs"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
@@ -31,7 +31,7 @@
 
 - week: 3
   title: "Week 3 – Foundational Knowledge: LLMs & Human Factors"
-  date: "2026-05-26"
+  date: "2026-06-02"
   topic: "LLM interaction modes, reliance, sycophancy, hallucination, hiding; key concepts to understand the risks and potential"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
@@ -39,19 +39,24 @@
   - type: blog post
     text: "Mark Reidl - The Intuition Behind How Large Language Models Work, Part I https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-166cf2fb278a"
   - type: paper
-    text: "Sarkar, Advait. 2024. “AI Should Challenge, Not Obey.” Commun. ACM 67 (10): 18–21. https://doi.org/10.1145/3649404."
-  - type: paper
     text: "Xia, Qing Nancy, Marios Constantinides, Advait Sarkar, Duncan Brumby, and Anna Cox. 2026. “‘If You’re Very Clever, No One Knows You’ve Used It’: The Social Dynamics of Developing Generative AI Literacy in the Workplace.” Preprint, April 26. https://doi.org/10.1145/3808045.3808050."
   - type: paper
     text: "Simkute, Auste, Lev Tankelevitch, Viktor Kewenig, Ava Elizabeth Scott, Abigail Sellen, and Sean Rintel. 2025. “Ironies of Generative AI: Understanding and Mitigating Productivity Loss in Human-AI Interaction.” International Journal of Human–Computer Interaction 41 (5): 2898–919. https://doi.org/10.1080/10447318.2024.2405782."
-  
+  - type: paper
+    text: "Vanderburg, Willem H. 2004. “The Intellectual Assembly Line Is Already Here.” Bulletin of Science, Technology & Society 24 (4): 331–41. https://doi.org/10.1177/0270467604267299."
+
+
 - week: 4
   title: "Week 4 – Practical Strategies"
   date: "2026-06-09"
-  topic: "Strategies for working with chatbots and agents, including prompting and frameworks for thinking about what to delegate in your work; applying the prior lecture content to practice"
+  topic: "Strategies for working with chatbots and agents, including prompting and frameworks for thinking about what to delegate in your work; applying the prior lecture content to practice; starting to think about diary study analysis"
   assignments:
     Diary Study Data Collection: /assignments/diary-study/
   readings: 
+  - type: blog post
+    text: "Mark Reidl - The Intuition Behind How Large Language Models Work, Part II https://mark-riedl.medium.com/the-intuition-behind-how-large-language-models-work-part-ii-8c6a127a4a99"
+  - type: paper
+    text: "Sarkar, Advait. 2024. “AI Should Challenge, Not Obey.” Commun. ACM 67 (10): 18–21. https://doi.org/10.1145/3649404."
   - type: paper
     text: "Buçinca, Zana, Maja Barbara Malaya, and Krzysztof Z. Gajos. 2021. “To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making.” Proc. ACM Hum.-Comput. Interact. 5 (CSCW1): 188:1-188:21. https://doi.org/10.1145/3449287."
   - type: paper
