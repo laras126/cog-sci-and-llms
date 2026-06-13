@@ -61,7 +61,7 @@
   - type: paper
     text: "Buçinca, Zana, Maja Barbara Malaya, and Krzysztof Z. Gajos. 2021. “To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-Assisted Decision-Making.” Proc. ACM Hum.-Comput. Interact. 5 (CSCW1): 188:1-188:21. https://doi.org/10.1145/3449287"
   - type: paper
-    text: "Zhi, Jiayin, Harsh Kumar, and Mina Lee. 2026. “Investigating the Effects of LLM Use on Critical Thinking Under Time Constraints: Access Timing and Time Availability.” Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI ’26, April 13, 1–21. https://doi.org/10.1145/3772318.3791796"
+    text: "Zhi, Jiayin, Harsh Kumar, and Mina Lee. 2026. “Investigating the Effects of LLM Use on Critical Thinking Under Time Constraints: Access Timing and Time Availability.” Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (New York, NY, USA), CHI ’26, April 13, 1–21. https://doi.org/10.1145/3772318.3791796 (also published as a blog post - https://criticalthinking-ai.app/)"
   - type: paper
     text: "Hosseini, Mohammad, Bert Gordijn, Gregory E. Kaebnick, and Kristi Holmes. 2025. “Disclosing Generative AI Use for Writing Assistance Should Be Voluntary.” Research Ethics 21 (4): 728–35. https://doi.org/10.1177/17470161251345499"
   - type: paper
@@ -76,9 +76,7 @@
     Individual Study Research Plan: /assignments/individual-study/
   readings: 
   - type: paper
-    text: "Jowsey, Tanisha, Virginia Braun, Victoria Clarke, Deborah Lupton, and Michelle Fine. 2025. “We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research.” Qualitative Inquiry, December 17, 10778004251401851. https://doi.org/10.1177/10778004251401851."
-  - type: paper
-    text: "TBD"
+    text: "Jowsey, Tanisha, Virginia Braun, Victoria Clarke, Deborah Lupton, and Michelle Fine. 2025. “We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research.” Qualitative Inquiry, December 17, 10778004251401851. https://doi.org/10.1177/10778004251401851"
 
 - week: 6
   title: "Week 6 – Async Only"
