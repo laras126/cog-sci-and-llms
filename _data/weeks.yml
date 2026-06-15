@@ -77,6 +77,8 @@
   readings: 
   - type: paper
     text: "Jowsey, Tanisha, Virginia Braun, Victoria Clarke, Deborah Lupton, and Michelle Fine. 2025. “We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research.” Qualitative Inquiry, December 17, 10778004251401851. https://doi.org/10.1177/10778004251401851"
+  - type: video
+    text: "\"Fish Is Fish\" 1986 animated short by Leo Lionni, Guilio Gianini https://www.youtube.com/watch?v=4NQRCoez6M8"
 
 - week: 6
   title: "Week 6 – Async Only"
@@ -84,7 +86,6 @@
   topic: "1:1 or small group feedback as you design individual study"
   assignments:
     Individual Study Data Collection: /assignments/individual-study/
-  readings: "TBD"
 
 - week: 7
   title: "Week 7 – Flex"
