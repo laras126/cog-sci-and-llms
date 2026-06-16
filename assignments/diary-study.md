@@ -42,12 +42,12 @@ There is no right/wrong length to these - mine vary from around 30ish words to 1
     1. In the email body, paste the link to your form for data collection.
 2. Start data collection - complete your entries at the beginning and end of the days. 
 3. It's okay to miss a day or to make up a PM entry the next AM - we can handle that in data cleaning before analysis.
-4. We will discuss analysis around week 4.
+4. Do analysis with the [Diary Study QDA](https://laras126.github.io/diary-study-qda/) tool (details discussed in week 5)
 
 ## What to Submit
 
-- Codebook (Week 4)
-- Findings and follow up RQs along with Individual Study design (Week 5)
+- Codebook PDF from [Diary Study QDA](https://laras126.github.io/diary-study-qda/)
+- Findings and follow up RQs along with Individual Study design
 
 ## Gen AI Guidelines
 
