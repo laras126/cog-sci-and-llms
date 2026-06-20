@@ -68,54 +68,47 @@
     text: "Cha, Inha, and Richmond Y. Wong. 2025. “Understanding Socio-Technical Factors Configuring AI Non-Use in UX Work Practices.” Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, April 26, 1–17. https://doi.org/10.1145/3706598.3713140 (also published as a blog post - https://ethicsinfrastructures.lmc.gatech.edu/2025/05/26/paper-summary-understanding-socio-technical-factors-configuring-ai-non-use-in-ux-work-practices/))"
 
 - week: 5
-  title: "Week 5 – Small Studies: HCI Research Methods"
-  date: "2026-06-16"
-  topic: "Review methods for analyzing the data collected in diary study; discuss how to design a small study to investigate a follow up question"
+  title: “Week 5 – HCI Research Methods”
+  date: “2026-06-16”
+  topic: “Review methods for analyzing the data collected in diary study; discuss how to design a small study to investigate a follow up question”
   assignments:
     Diary Study Codebook: /assignments/diary-study/
-    Individual Study Research Plan: /assignments/individual-study/
-  readings: 
+  readings:
   - type: paper
-    text: "Jowsey, Tanisha, Virginia Braun, Victoria Clarke, Deborah Lupton, and Michelle Fine. 2025. “We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research.” Qualitative Inquiry, December 17, 10778004251401851. https://doi.org/10.1177/10778004251401851"
+    text: “Jowsey, Tanisha, Virginia Braun, Victoria Clarke, Deborah Lupton, and Michelle Fine. 2025. “We Reject the Use of Generative Artificial Intelligence for Reflexive Qualitative Research.” Qualitative Inquiry, December 17, 10778004251401851. https://doi.org/10.1177/10778004251401851”
   - type: video
-    text: "\"Fish Is Fish\" 1986 animated short by Leo Lionni, Guilio Gianini (5mins) https://www.youtube.com/watch?v=4NQRCoez6M8"
+    text: “Fish Is Fish” 1986 animated short by Leo Lionni, Guilio Gianini (5mins) https://www.youtube.com/watch?v=4NQRCoez6M8”
 
 - week: 6
-  title: "Week 6 – Async Only"
-  date: "2026-06-23"
-  topic: "1:1 or small group feedback as you design individual study"
+  title: “Week 6 – Async Only”
+  date: “2026-06-23”
+  topic: “1:1 or small group feedback as you code and analyze your diary study data”
   assignments:
-    Individual Study Data Collection: /assignments/individual-study/
+    Diary Study Codebook: /assignments/diary-study/
 
 - week: 7
-  title: "Week 7 – Flex"
-  date: "2026-06-30"
-  topic: "Guest speaker, FAQ, or requested topic"
+  title: “Week 7 – Flex”
+  date: “2026-06-30”
+  topic: “Guest speaker, FAQ, or requested topic”
   assignments:
-    Individual Study Data Collection: /assignments/individual-study/
-  readings: "TBD"
+    Diary Study Analysis: /assignments/diary-study/
 
 - week: 8
-  title: "Week 8 – Flex"
-  date: "2026-07-07"
-  topic: "Guest speaker, FAQ, or requested topic"
+  title: “Week 8 – Flex”
+  date: “2026-07-07”
+  topic: “Guest speaker, FAQ, or requested topic”
   assignments:
-    Individual Study Data Collection: /assignments/individual-study/
-  readings: "TBD"
+    Individual Study Design: /assignments/individual-study/
 
 - week: 9
-  title: "Week 9 – Async Only"
-  date: "2026-07-14"
-  topic: "1:1 or small group support as you develop findings from your studies"
+  title: “Week 9 – Async Only”
+  date: “2026-07-14”
+  topic: “1:1 or small group support as you develop findings from your studies”
   assignments:
-    Individual Study Analysis: /assignments/individual-study/
-    Personal Meaning Map - Post: /assignments/pmm-study/
-  readings: "TBD"
+    Findings Deck: /assignments/individual-study/
 
 - week: 10
-  title: "Week 10 – Wrap Up & Reflection"
-  date: "2026-07-21"
-  topic: "Present summarized findings; reflect on changes in LLM use over the seminar"
-  assignments:
-    Individual Study Findings Deck: /assignments/individual-study/
-  readings: "TBD"
+  title: “Week 10 – Wrap Up & Reflection”
+  date: “2026-07-21”
+  topic: “Present summarized findings; reflect on changes in LLM use over the seminar”
+  readings: “TBD”

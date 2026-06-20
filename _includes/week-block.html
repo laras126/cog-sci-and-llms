@@ -4,6 +4,7 @@
     <dl class="week-plan">
       <dt>Topic</dt>
       <dd>{{ include.week.topic }}</dd>
+      {% if include.week.readings %}
       <dt><a href="https://gtvault-my.sharepoint.com/:f:/g/personal/lschenck3_gatech_edu/IgCHFQ5An_JFQLxSNjc1GLIRAQyf5kEcH0Ut-eyNCYZd9k4?e=yeKaxU">Readings</a></dt>
       <dd>
         {% if include.week.readings[0].type %}
@@ -19,12 +20,15 @@
           {{ include.week.readings }}
         {% endif %}
       </dd>
+      {% endif %}
+      {% if include.week.assignments %}
       <dt>Do After</dt>
       <dd>
         {% for item in include.week.assignments %}
           <a href="{{ item[1] | relative_url }}">{{ item[0] }}</a>{% unless forloop.last %} | {% endunless %}
         {% endfor %}
       </dd>
+      {% endif %}
     </dl>
   </div>
 </div>
