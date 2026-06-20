@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Cognitive Science & LLMs
 nav_order: 0
 permalink: /
 seo:
